@@ -96,13 +96,13 @@ export default {
     /**
      * The default inviter id to use when no inviter id (in url) is provided,
      */
-    defaultInviterId: undefined,
+    defaultInviterId: '9fcd95c1-bd60-49ca-b7b6-d37f2cf73f76',
 
     /**
      * Force the inviter id to be used, even if an inviter id is provided.
      * Note: if the forceInviterId is set, there will be no distribution page in console except for the forced inviter.
      */
-    forceInviterId: undefined
+    forceInviterId: '9fcd95c1-bd60-49ca-b7b6-d37f2cf73f76'
   },
 
   /**
